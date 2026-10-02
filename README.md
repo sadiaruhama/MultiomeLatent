@@ -15,6 +15,7 @@ This repository contains the analysis code used to derive and validate a BCG-ind
   - TCGA-BLCA (survival analysis)
   - GSE199471 (baseline vs. recurrence)
   - GSE184241 (healthy BCG-vaccinated donor monocytes)
+  - GSE176178
 
 ---
 
@@ -39,6 +40,7 @@ MOFA+.py
         ├──────────────► gse199471_recurrence_validation (2).py
         │
         └──────────────► gse184241_external_cohort_for_trained_immunity_validation (6).py
+        └──────────────► GSE176178
 ```
 
 ---
@@ -153,7 +155,7 @@ Evaluates the signature in
 
 ---
 
-
+###9. 'GSE176178'
 
 This repository is provided primarily for **methodological transparency** .
 
